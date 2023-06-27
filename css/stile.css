@@ -1,0 +1,480 @@
+p {
+    font-family: 'Koh Santepheap', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	margin: 0;
+	width:30%;
+	background: #B1AB96;
+    overflow-y: scroll;
+}
+
+.Head{
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    height: 101px;
+    left: 0px;
+    top: 200px;
+    padding: 100px;
+    background: #242424;
+
+    
+}
+
+.Logo{
+    z-index: 999;
+    position: fixed;
+    width: 125px;
+    height: 125px;
+    left: 33px;
+    top: 31px;
+
+}
+
+.Menu{
+    z-index: 999;
+    position: fixed;
+    width: 67px;
+    height: 67px;
+    left: 1700px;
+    top: 31px;
+
+}
+.contenitore-immagine1 {
+    height:810px;
+    width:1440px;
+    left:0px;
+    top:0px;
+    text-align: center;
+    max-width: 1920px;
+    
+
+    
+  }
+  
+  .Titolo {
+        height:484px;
+        width:1440px;
+        left:220px;
+        top:400px;
+        font-size: 128px;
+        font-weight: 128;
+        font-family: 'Montserrat';
+        font-style: bold;
+        color:  #FFFFFF;
+        position: absolute;
+  }
+
+  .contenitore-immagine2 {
+    
+    height:810px;
+    width:1440px;
+    left:0px;
+    top:2000px;
+    text-align: center;
+    
+    
+  }
+
+  .catering {
+
+    height:137px;
+    width:137px;
+    left:900px;
+    top:1100px;
+    position: absolute;
+
+    
+  }
+
+  .TestoCat {
+
+    height:810px;
+    width:1440px;
+    left:830px;
+    top:1250px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+
+  }
+
+  .pol2{
+
+    height:351px;
+    width:351px;
+    left:100px;
+    top:1550px;
+    position: absolute;
+  }
+
+  .it2{
+
+    height:351px;
+    width:351px;
+    left:780px;
+    top:1550px;
+    position: absolute;
+  }
+
+  .haw2{
+
+    height:351px;
+    width:351px;
+    left:1500px;
+    top:1550px;
+    position: absolute;
+  }
+
+  .Polish {
+
+    position: absolute;
+    height:810px;
+    width:1440px;
+    left:180px;
+    top:1900px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    color:  #000000;
+
+  }
+  .Italian{
+
+    position: absolute;
+    height:810px;
+    width:1440px;
+    left:860px;
+    top:1900px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    color:  #000000;
+
+  }
+  .Hawaiian {
+
+    position: absolute;
+    height:810px;
+    width:1440px;
+    left:1530px;
+    top:1900px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    color:  #000000;
+
+  }
+
+  .contenitore-immagine3 {
+    height:810px;
+    width:1440px;
+    left:0px;
+    top:2222px;
+    position: absolute;
+
+    
+  }
+
+  .Polish-Breakfast {
+
+    height:484px;
+    width:1440px;
+    left:400px;
+    top:300px;
+    font-size: 128px;
+    font-weight: 128;
+    font-family: 'Montserrat';
+    font-style: bold;
+    color:  #FFFFFF;
+    position: absolute;
+
+  }
+
+  .Contenuto1 {
+
+    height:484px;
+    width:1440px;
+    left:200px;
+    top:600px;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-style: bold;
+    color:  #FFFFFF;
+    position: absolute;
+    text-align: center;
+  }
+
+  .scopri {
+
+    height:810px;
+    width:1440px;
+    left: 220px;
+    top:1100px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: center;
+  }
+
+  .contenitore-immagine4 {
+    height:810px;
+    width:1440px;
+    left:0px;
+    top:3500px;
+    position: absolute;
+
+    
+  }
+
+  .Hawaiian-Breakfast {
+
+    height:484px;
+    width:1440px;
+    left:300px;
+    top:300px;
+    font-size: 128px;
+    font-weight: 128;
+    font-family: 'Montserrat';
+    font-style: bold;
+    color:  #FFFFFF;
+    position: absolute;
+
+  }
+
+  .Contenuto2 {
+
+    height:484px;
+    width:1440px;
+    left:200px;
+    top:600px;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-style: bold;
+    color:  #FFFFFF;
+    position: absolute;
+    text-align: center;
+  }
+
+  .scopri2 {
+
+    height:810px;
+    width:1440px;
+    left: 220px;
+    top:1100px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: center;
+  }
+
+  footer{
+
+    
+    height:850px;
+    width:1920px;
+    left: 0px;
+    top:4900px;
+    background-color: #BEB8A3;
+    position: absolute;
+
+  }
+
+  .Location {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:100px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: left;
+  }
+
+  .Via {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:200px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: left;
+  }
+
+  .Tel {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:250px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: left;
+  }
+
+  .Follow {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:350px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: left;
+  }
+
+  .social {
+
+    position: absolute;
+    height:90px;
+    width:492px;
+    left: 100px;
+    top:500px;
+
+  }
+
+  .cop {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:800px;
+    font-size: 25px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: center;
+  }
+
+  .Contact {
+
+    height:810px;
+    width:1440px;
+    left: 180px;
+    top:100px;
+    font-size: 64px;
+    font-family: 'Koh Santepheap';
+    font-style: bold;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: right;
+  }
+
+  .rectangle-nome {
+
+    width: 600px;
+    height: 80px;
+    left: 1160px;
+    top:200px;
+    position: absolute;
+    background-color: #B1AB96;
+  }
+
+  .rectangle-email {
+
+    width: 600px;
+    height: 80px;
+    left: 1160px;
+    top:310px;
+    position: absolute;
+    background-color: #B1AB96;
+  }
+
+  .rectangle-mex {
+
+    width: 600px;
+    height: 300px;
+    left: 1160px;
+    top:420px;
+    position: absolute;
+    background-color: #B1AB96;
+  }
+
+  .name {
+
+    height:810px;
+    width:1440px;
+    left: 0px;
+    top:220px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #515151;
+    position: absolute;
+    text-align: right;
+  }
+  .email {
+
+    height:810px;
+    width:1440px;
+    left: 125px;
+    top:330px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #515151;
+    position: absolute;
+    text-align: right;
+  }
+  .mex {
+
+    height:810px;
+    width:1440px;
+    left: 55px;
+    top:430px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #515151;
+    position: absolute;
+    text-align: right;
+  }
+
+  .submit {
+
+    height:810px;
+    width:1440px;
+    left: -150px;
+    top:730px;
+    font-size: 30px;
+    font-family: 'Koh Santepheap';
+    font-style: normal;
+    font-weight: 1000;
+    color:  #000000;
+    position: absolute;
+    text-align: right;
+  }
